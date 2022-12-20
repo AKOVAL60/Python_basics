@@ -73,4 +73,4 @@ while True:
 
 print(f"на {count}-й день спортсмен достиг результата — не менее {b} км.")
 
-## Send homework_1 to github
+## Send homework to github
