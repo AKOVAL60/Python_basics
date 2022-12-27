@@ -47,5 +47,4 @@ for items in my_list:
             continue
         else:
             my_result[keys] = [items[1][keys]]
-
 print(my_result)
