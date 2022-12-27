@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/task_6.py" afterDir="false" />
-    </list>
+    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672069578452</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="homework_2 correct">
+      <created>1672126882192</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672126882192</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homework_2 &quot;complete&quot; to git branch &quot;homework_2&quot;">
+      <created>1672127157742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672127157742</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +170,8 @@
     <MESSAGE value="append code to homework_1.py" />
     <MESSAGE value="rebuild project" />
     <MESSAGE value="homework_2 done..." />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_2 done..." />
+    <MESSAGE value="homework_2 correct" />
+    <MESSAGE value="homework_2 &quot;complete&quot; to git branch &quot;homework_2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_2 &quot;complete&quot; to git branch &quot;homework_2&quot;" />
   </component>
 </project>
