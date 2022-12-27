@@ -1,1 +1,16 @@
-#Create branch homework_3
+# 1. Реализовать функцию, принимающую два числа (позиционные аргументы) и выполняющую их деление.
+# Числа запрашивать у пользователя, предусмотреть обработку ситуации деления на ноль.
+
+a = int(input('Введите "x": '))
+b = int(input('Введите "y": '))
+
+
+def division(x, y):
+    try:
+        return x / y
+    except ZeroDivisionError:
+        return 'Нельзя делить на "0"'
+
+
+result = division(a, b)
+print(f"Результат деления: {result}")
