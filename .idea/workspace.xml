@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="" />
+    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_3/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,17 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework_1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,6 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/user/PycharmProjects/homework/homework_2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "two.files.diff.last.used.file": "C:/Users/user/PycharmProjects/homework/homework_1.py"
   }
 }]]></component>
@@ -137,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672127157742</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Delete code">
+      <created>1672127185120</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672127185120</updated>
+    </task>
+    <task id="LOCAL-00011" summary="restore code">
+      <created>1672127204598</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672127204598</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +194,8 @@
     <MESSAGE value="homework_2 done..." />
     <MESSAGE value="homework_2 correct" />
     <MESSAGE value="homework_2 &quot;complete&quot; to git branch &quot;homework_2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_2 &quot;complete&quot; to git branch &quot;homework_2&quot;" />
+    <MESSAGE value="Delete code" />
+    <MESSAGE value="restore code" />
+    <option name="LAST_COMMIT_MESSAGE" value="restore code" />
   </component>
 </project>
