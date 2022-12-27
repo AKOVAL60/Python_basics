@@ -5,13 +5,15 @@
 # сумму этих чисел к полученной ранее сумме и после этого завершить программу.
 
 
-total = 0
-isContinue = True
-while isContinue:
-    numbers = input('Введите числа: ').split()
-    for x in numbers:
-        if x == '#':
-            isContinue = False
-            break
-        total += int(x)
-    print(total)
+def my_func():
+    total = 0
+    while True:
+        numbers = input('Введите числа: ').split()
+        for x in numbers:
+            if x == '#':
+                return total
+            total += int(x)
+        print(total)
+
+
+print(my_func())
