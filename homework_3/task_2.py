@@ -2,17 +2,20 @@
 # год рождения, город проживания, email, телефон. Функция должна принимать параметры как именованные аргументы.
 # Осуществить вывод данных о пользователе одной строкой.
 
-# firstname = input('Введите имя: ')
-# lastname = input('Введите фамилию: ')
-# year = input('Введите год рождения: ')
-# city = input('Введите город: ')
-# email = input('Введите электронную почту: ')
-# phone = input('Введите номер телефона: ')
+name = input('Введите имя: ')
+surname = input('Введите фамилию: ')
+year = input('Введите год рождения: ')
+city = input('Введите город: ')
+email = input('Введите электронную почту: ')
+phone = input('Введите номер телефона: ')
 
 
-def my_func(firstname, lastname, year, city, email, phone):
-    return ' '.join([firstname, lastname, year, city, email, phone])
+def profiles(*args):
+    params = []
+    for val in args:
+        params.append(val)
+    return ' '.join(params)
 
 
-print(my_func(firstname='Александр', lastname='Коваль', year='1962',
-              city='Калининград', email='koval@mdx39.ru', phone='89998887766'))
+profileInfo = profiles(name, surname, year, city, email, phone)
+print(profileInfo)
