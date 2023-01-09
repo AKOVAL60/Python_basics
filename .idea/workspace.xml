@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_4/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672135568953</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework_4 created">
+      <created>1673274381562</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673274381562</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -244,6 +245,7 @@
     <MESSAGE value="restore code" />
     <MESSAGE value="Create branch &quot;homework_3&quot;" />
     <MESSAGE value="homework_3 done..." />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_3 done..." />
+    <MESSAGE value="homework_4 created" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_4 created" />
   </component>
 </project>
