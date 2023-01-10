@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +73,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/user/PycharmProjects/homework/homework_2",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "two.files.diff.last.used.file": "C:/Users/user/PycharmProjects/homework/homework_1.py"
   }
 }]]></component>
@@ -182,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673274381562</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="homework_4 edited comments">
+      <created>1673275494004</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673275494004</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -246,6 +260,7 @@
     <MESSAGE value="Create branch &quot;homework_3&quot;" />
     <MESSAGE value="homework_3 done..." />
     <MESSAGE value="homework_4 created" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_4 created" />
+    <MESSAGE value="homework_4 edited comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_4 edited comments" />
   </component>
 </project>
