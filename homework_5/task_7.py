@@ -12,3 +12,12 @@
 # [{"firm_1": 5000, "firm_2": 3000, "firm_3": 1000}, {"average_profit": 2000}]
 # Подсказка: использовать менеджер контекста.
 
+import json
+
+with open("task_7.txt", "r", encoding="utf-8") as txt_file:
+    firm_profile = [firm.split() for firm in txt_file]
+    firm_list = [{firm[0]: int(firm[2]) - int(firm[3])} for firm in firm_profile]
+    avg_list = [firm[key] for firm in firm_list for key in firm if firm[key] > 0]
+    firm_list.append({"average_profit": sum(avg_list)/len(avg_list)})
+    with open("task_7.json", "w") as write_file:
+        json.dump(firm_list, write_file)
