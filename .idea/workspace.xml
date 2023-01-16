@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_6/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6/task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="366b9d22-2463-4949-8dab-e8c58c8c295b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework_4" />
+        <entry key="$PROJECT_DIR$" value="homework_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -222,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673522927575</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="homework_6 create and Done...">
+      <created>1673608518191</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673608518191</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -291,6 +291,7 @@
     <MESSAGE value="homework_5 created" />
     <MESSAGE value="homework_5 created homework task files" />
     <MESSAGE value="homework_5 done..." />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_5 done..." />
+    <MESSAGE value="homework_6 create and Done..." />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_6 create and Done..." />
   </component>
 </project>
